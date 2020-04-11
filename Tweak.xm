@@ -52,7 +52,7 @@
 }
 
 - (void)performAction:(void *)completion {
-    self.forceAirplaneMode = YES; // Do we always force airplane mode?
+    self.forceAirplaneMode = YES;
     %orig;
     self.forceAirplaneMode = NO;
 }
