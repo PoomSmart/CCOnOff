@@ -1,5 +1,5 @@
 # CC On & Off
 
-Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
+On means on. Off means off.
 
-https://github.com/jakeajames/RealCC/pull/14#issuecomment-471258723
+Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+).
