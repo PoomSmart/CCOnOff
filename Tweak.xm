@@ -1,3 +1,6 @@
+#import <Foundation/Foundation.h>
+#import <dlfcn.h>
+
 @interface BluetoothManager : NSObject
 @end
 
