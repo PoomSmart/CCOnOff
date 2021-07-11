@@ -1,10 +1,12 @@
 Package: com.ps.cconandoff
 Name: CC On & Off
-Depends: mobilesubstrate, firmware (>= 11.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+)
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
