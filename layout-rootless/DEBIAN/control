@@ -1,5 +1,5 @@
 Package: com.ps.cconandoff-rootless
-Name: CC On & Off
+Name: CC On & Off (Rootless)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: com.jakeashacks.realcc
 Version: 1.0.0
