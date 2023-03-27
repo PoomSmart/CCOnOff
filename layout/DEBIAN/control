@@ -4,7 +4,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+)
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Tweaks
